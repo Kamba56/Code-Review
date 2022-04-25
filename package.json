@@ -1,0 +1,25 @@
+{
+  "name": "code-review",
+  "version": "1.0.0",
+  "description": "If you are not familiar with linters, read [root level README](../README.md).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamba56/Code-Review.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamba56/Code-Review/issues"
+  },
+  "homepage": "https://github.com/Kamba56/Code-Review#readme",
+  "devDependencies": {
+    "hint": "^6.1.11",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
